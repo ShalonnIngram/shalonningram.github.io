@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="259px" height="258px" viewBox="0 0 259 258" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>file-regular</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file-regular" transform="translate(1.000000, 1.000000)">
+            <path d="M179.071094,89.112478 L155.692708,68.4692443 C153.184896,66.254833 149.785417,65 146.246615,65 L89.375,65 C81.9908854,65.0246046 76,70.314587 76,76.8347979 L76,179.189807 C76,185.710018 81.9908854,191 89.375,191 L169.625,191 C177.009115,191 183,185.710018 183,179.189807 L183,97.4780316 C183,94.3532513 181.578906,91.3268893 179.071094,89.112478 Z M168,97 L147,97 L147,78 L168,97 Z M90,179 L90,77 L134.444444,77 L134.444444,102.5 C134.444444,105.761058 137.416667,108.384615 141.111111,108.384615 L170,108.384615 L170,179 L90,179 Z" id="Shape" fill="#CBC6C8" fill-rule="nonzero"></path>
+            <ellipse id="Oval-Copy-8" stroke="#DDDDDD" cx="128.5" cy="128" rx="128.5" ry="128"></ellipse>
+            <circle id="Oval-Copy-7" stroke="#DDDDDD" cx="129" cy="128" r="113"></circle>
+        </g>
+    </g>
+</svg>
